@@ -1,11 +1,11 @@
 body {
   margin: 0;
   font-family: "Montserrat", sans-serif;
-  background-color: #f7f7f7;
+  background-color: whitesmoke;
 }
 
 .container {
-  background-color: #fff;
+  background-color: whitesmoke;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
   margin: 0 auto;
   margin-top: 50px;
@@ -31,7 +31,7 @@ form input[type="text"] {
 }
 
 form input[type="submit"] {
-  background-color: #007bff;
+  background-color: skyblue;
   color: #fff;
   border: none;
   padding: 10px 20px;
@@ -43,7 +43,7 @@ form input[type="submit"] {
 }
 
 form input[type="submit"]:hover {
-  background-color: #0062cc;
+  background-color: darkblue;
 }
 
 .icon img {
@@ -74,7 +74,7 @@ form input[type="submit"]:hover {
 
 .details > div {
   padding: 20px;
-  background-color: #f1f1f1;
+  background-color: white;
   margin: 10px;
   flex: 1;
   border-radius: 5px;
